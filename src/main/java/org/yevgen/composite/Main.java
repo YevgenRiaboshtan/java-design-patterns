@@ -2,6 +2,12 @@ package org.yevgen.composite;
 
 public class Main {
 
+    /*
+    When to use Composite Pattern
+    • When you want to represent part-whole hierarchies of objects.
+    • When you want clients to be able to ignore the difference between compositions of objects and individual objects. Clients will
+    treat all objects in the composite structure uniformly.
+     */
     public static void main(String... args) {
         Html page = new Html();
 
