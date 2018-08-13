@@ -1,1 +1,1 @@
- javac a ReportGeneratorImpl.java ReportGeneratorClient.javaReportGenerator.jav
+ javac ReportGeneratorImpl.java ReportGeneratorClient.javaReportGenerator.java
