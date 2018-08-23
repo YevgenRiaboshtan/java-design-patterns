@@ -2,6 +2,11 @@ package org.yevgen.memento;
 
 public class Main {
 
+    /*
+    Use the Memento Pattern in the following cases:
+    • A snapshot of (some portion of) an object’s state must be saved so that it can be restored to that state later, and
+    • A direct interface to obtaining the state would expose implementation details and break the object’s encapsulation.
+     */
     public static void main(String[] args) {
         CareTaker careTaker = new CareTaker();
 
